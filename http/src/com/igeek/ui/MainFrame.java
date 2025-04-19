@@ -146,6 +146,7 @@ public class MainFrame extends JFrame {
 
             }.start();//并且启动
         }
+        //主线程
         public static void main(String[] args){
             MainFrame mf =new MainFrame();
         }
